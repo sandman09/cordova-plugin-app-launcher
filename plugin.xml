@@ -32,7 +32,7 @@
 		</config-file>
 		<config-file target="AndroidManifest.xml" parent="/manifest">
 			<queries>
-        		<package android:name="com.outsystemscloud.goncalomesquita.readerapp"/>
+        		<package android:name="com.outsystemscloud.goncalomesquita.ReaderApp"/>
 			</queries>
 		</config-file>
 		<source-file src="src/android/Launcher.java" target-dir="src/com/hutchind/cordova/plugins/launcher" />
